@@ -1,0 +1,5 @@
+name: pris
+version: 'SNAPSHOT'
+title: PRIS
+nav:
+  - modules/ROOT/nav.adoc
